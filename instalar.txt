@@ -1,0 +1,13 @@
+Listando...
+libdrm-amdgpu1/noble-updates 2.4.122-1~ubuntu0.24.04.2 amd64 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-amdgpu1/noble-updates 2.4.122-1~ubuntu0.24.04.2 i386 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-common/noble-updates,noble-updates 2.4.122-1~ubuntu0.24.04.2 all [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-intel1/noble-updates 2.4.122-1~ubuntu0.24.04.2 amd64 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-intel1/noble-updates 2.4.122-1~ubuntu0.24.04.2 i386 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-nouveau2/noble-updates 2.4.122-1~ubuntu0.24.04.2 amd64 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm-radeon1/noble-updates 2.4.122-1~ubuntu0.24.04.2 amd64 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm2/noble-updates 2.4.122-1~ubuntu0.24.04.2 amd64 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libdrm2/noble-updates 2.4.122-1~ubuntu0.24.04.2 i386 [actualizable desde: 2.4.122-1~ubuntu0.24.04.1]
+libnvidia-egl-wayland1/noble-updates 1:1.1.13-1ubuntu0.1 amd64 [actualizable desde: 1:1.1.13-1build1]
+libnvidia-egl-wayland1/noble-updates 1:1.1.13-1ubuntu0.1 i386 [actualizable desde: 1:1.1.13-1build1]
+ubuntu-drivers-common/noble-updates 1:0.9.7.6ubuntu3.5 amd64 [actualizable desde: 1:0.9.7.6ubuntu3.4]

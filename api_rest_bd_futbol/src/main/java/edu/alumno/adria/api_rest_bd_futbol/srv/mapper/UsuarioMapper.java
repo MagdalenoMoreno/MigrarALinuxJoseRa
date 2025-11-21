@@ -1,0 +1,15 @@
+package edu.alumno.adria.api_rest_bd_futbol.srv.mapper;
+
+import org.mapstruct.Mapper;
+import org.mapstruct.Mapping;
+import org.mapstruct.factory.Mappers;
+
+import edu.alumno.adria.api_rest_bd_futbol.model.db.UsuarioDb;
+import edu.alumno.adria.api_rest_bd_futbol.model.dto.UsuarioInfo;
+
+@Mapper(uses = RolMapper.class)
+public interface UsuarioMapper {
+    UsuarioMapper INSTANCE = Mappers.getMapper(UsuarioMapper.class);
+    @Mapping(target = "roles", source = "roles")
+    UsuarioInfo usuarioDbToUsuarioInfo(UsuarioDb usuarioDb);
+}
